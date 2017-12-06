@@ -6,3 +6,7 @@ The KPCA_preimaging is actually a code developed by Quan Wang.
 I have learned the code modified the imaging part to do pre-imaging of whole training data at a time.
 His work and licence is present inside the folder.
 I have also tried to do the same for my own data while varying parameters.
+
+# Neural net developed on python 
+Using numpy array for digit recognition. Following http://neuralnetworksanddeeplearning.com/.
+Stochiastic gradient descend for backpropagation. MSE cost function used.
